@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106.097" height="106.098" viewBox="0 0 106.097 106.098">
+    <defs>
+        <filter id="Rectangle" x="0" y="0" width="106.097" height="106.098" filterUnits="userSpaceOnUse">
+            <feOffset dy="10" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="10" result="blur"/>
+            <feFlood flood-opacity="0.102"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_4" data-name="Rectangle 4" width="22.503" height="15.979" fill="#47d58e" stroke="#fff" stroke-width="2"/>
+        </clipPath>
+    </defs>
+    <g id="Group_980" data-name="Group 980" transform="translate(30 20)">
+        <g transform="matrix(1, 0, 0, 1, -30, -20)" filter="url(#Rectangle)">
+            <path id="Rectangle-2" data-name="Rectangle" d="M1486.048,161h0a23.028,23.028,0,0,1,23.049,23.049h0a23.028,23.028,0,0,1-23.049,23.049h0A23.028,23.028,0,0,1,1463,184.049h0A23.028,23.028,0,0,1,1486.048,161Z" transform="translate(-1433 -141)" fill="#47d58e" opacity="0.973"/>
+        </g>
+        <g id="Group_12" data-name="Group 12" transform="translate(11.797 15.059)">
+            <g id="Group_11" data-name="Group 11" transform="translate(0 0)" clip-path="url(#clip-path)">
+                <path id="Path_13" data-name="Path 13" d="M2,8.524l6.524,6.524L21.573,2" transform="translate(-0.535 -0.535)" fill="#47d58e" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+        </g>
+    </g>
+</svg>
